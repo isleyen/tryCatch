@@ -1,0 +1,5 @@
+﻿  Test.cpp
+  tryCatch.cpp
+  Kod Üretiliyor...
+C:\Users\ahmet\source\repos\tryCatch\tryCatch.cpp(37,1): warning C4715: 'main2': tüm denetim yolları değer döndürmez
+  tryCatch.vcxproj -> C:\Users\ahmet\source\repos\tryCatch\x64\Debug\tryCatch.exe
